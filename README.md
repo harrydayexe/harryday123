@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @harryday123
-- 👀 I’m interested in Swift, iOS Development, Machine Learning, Data and anything else that seems cool
-- 🌱 I’m currently learning SwiftUI. I am finishing off at high school and will be moving on to study Computer Science at University in Septemeber 2021.
-- 💞️ I’m looking to collaborate on any cool projects that catch my eye or provide genuine value to people
-- 📫 Reach me on Twitter [@realharryday](https://www.twitter.com/realharryday), or shoot an email to [Harry](mailto:contact@harryday.xyz)
+<h1 align="center">Hey, I'm Harry 👋 </h1>
+<h3 align="center">I am a Computer Science student at The University of Manchester and an indie developer</h3>
 
-<!---
-harryday123/harryday123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2>About Me</h2>
+I am a student studying at the University of Manchester for a Computer Science Degree. I have experience programming in Python, Swift, HTML, JS, CSS and more with my most recent work being on iOS apps.
+
+<h2>SongLinkr</h2>
+SongLinkr is a free iOS app which allows links to music on one streaming platform to be matched to all other platforms. More info can be found at [https://songlinkr.harryday.xyz](https://songlinkr.harryday.xyz)
